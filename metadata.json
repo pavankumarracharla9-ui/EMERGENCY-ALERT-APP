@@ -1,0 +1,6 @@
+{
+  "name": "RESQ-AI: Intelligent Emergency Response & Assistance System",
+  "description": "AI-assisted emergency reporting, ambulance dispatch, resource coordination, and hospital readiness platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
